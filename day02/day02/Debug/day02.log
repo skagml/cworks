@@ -1,0 +1,5 @@
+﻿  scan_ex.c
+C:\devC\day02\day02\scan_ex.c(13,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\devC\day02\day02\scan_ex.c(19,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\devC\day02\day02\scan_ex.c(20,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  day02.vcxproj -> C:\devC\day02\Debug\day02.exe
