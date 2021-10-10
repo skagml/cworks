@@ -39,5 +39,14 @@
     <ClCompile Include="scan_ex.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="if_ex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if_ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scorepoint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
