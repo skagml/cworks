@@ -24,9 +24,22 @@ int main() {
 			balance += money;
 		}
 		else if (selNo == 2) {
-			printf("출금액> ");
-			scanf_s("%d", &money);
-			balance -= money;
+			//출금액이 잔액을 초과한 경우에 "잔액을 초과했습니다. 다시 입력해주세요."
+			while(sw){
+				printf("출금액> ");
+				scanf_s("%d", &money);
+				if (money > balance) {
+					printf("잔액이 초과되었습니다.다시 입력해주세요.\n");
+					/*printf("출금액> ");
+					scanf_s("%d", &money);
+					balance -= money;*/
+				}
+				else {
+					balance -= money;
+					printf("정상 처리되었습니다.\n");
+					break;
+				}
+			}
 		}
 		else if (selNo == 3) {
 			printf("잔고> %d\n", balance);
@@ -40,9 +53,9 @@ int main() {
 			printf("지원되지 않는 기능입니다.");
 		}
 		
-		if (balance < money ) {
-			printf("잔액이 초과되었습니다.");
-		}
+		/*if (balance < money) {
+			printf("잔액이 초과되었습니다.다시 입력해주세요.");
+		}*/
 
 	}//whileend
 	printf("프로그램 종료");

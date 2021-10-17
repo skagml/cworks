@@ -51,5 +51,11 @@
     <ClCompile Include="nestedfor2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="seat.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
