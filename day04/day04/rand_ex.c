@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+#include <stdlib.h> //랜드때문에
+#include <time.h>  //time 함수 때문에
 
 int main() {
 	int dice, i;

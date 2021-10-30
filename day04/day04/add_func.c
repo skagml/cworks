@@ -1,4 +1,4 @@
 //add함수 정의
-int add(int x, int y) {
+int add_func(int x, int y) {
 	return x + y;
 }
