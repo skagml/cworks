@@ -36,9 +36,6 @@
     <ClCompile Include="malloc_getname.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="struct_student.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="struct_student2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -57,13 +54,13 @@
     <ClCompile Include="circle_main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="score_main.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="person_main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="fwrite_ex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="score_main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

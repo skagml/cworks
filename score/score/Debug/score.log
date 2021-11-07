@@ -1,0 +1,26 @@
+﻿  main.c
+C:\devC\score\score\main.c(6,10): error C2065: 'Student': 선언되지 않은 식별자입니다.
+C:\devC\score\score\main.c(6,10): error C2146: 구문 오류: ';'이(가) 's1' 식별자 앞에 없습니다.
+C:\devC\score\score\main.c(6,13): error C2065: 's1': 선언되지 않은 식별자입니다.
+C:\devC\score\score\main.c(6,15): error C2059: 구문 오류: '{'
+C:\devC\score\score\main.c(9,4): error C2065: 's1': 선언되지 않은 식별자입니다.
+C:\devC\score\score\main.c(9,5): error C2224: '.score' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\devC\score\score\main.c(9,28): error C2065: 's1': 선언되지 않은 식별자입니다.
+C:\devC\score\score\main.c(9,29): error C2224: '.score' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\devC\score\score\main.c(9,52): error C2065: 's1': 선언되지 않은 식별자입니다.
+C:\devC\score\score\main.c(9,53): error C2224: '.score' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\devC\score\score\main.c(12,28): error C2065: 's1': 선언되지 않은 식별자입니다.
+C:\devC\score\score\main.c(12,29): error C2224: '.number' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\devC\score\score\main.c(12,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\devC\score\score\main.c(12,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\devC\score\score\main.c(12,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\devC\score\score\main.c(13,28): error C2065: 's1': 선언되지 않은 식별자입니다.
+C:\devC\score\score\main.c(13,29): error C2224: '.name' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\devC\score\score\main.c(13,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\devC\score\score\main.c(13,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\devC\score\score\main.c(13,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\devC\score\score\main.c(14,32): error C2065: 's1': 선언되지 않은 식별자입니다.
+C:\devC\score\score\main.c(14,33): error C2224: '.score' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\devC\score\score\main.c(14,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\devC\score\score\main.c(14,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\devC\score\score\main.c(14,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%3.1lf'에 필요합니다.
